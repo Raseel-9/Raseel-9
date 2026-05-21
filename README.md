@@ -57,8 +57,8 @@ Automation system powered by AI APIs and Python integrations.
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/https://www.linkedin.com/in/raseel-alanazi-8017a23a8?utm_source=share_via&utm_content=profile&utm_medium=member_ios">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="45"/>
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USER" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" height="30" style="display:inline-block;" />
   </a>
 </p>
 
