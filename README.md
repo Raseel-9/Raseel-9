@@ -1,68 +1,98 @@
-# 👋 Hi, I'm Raseel <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />
+# 👋 Hi, I'm Raseel
 
 <p align="center">
-  <a href="https://x.com/yourprofile" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/x.svg" height="30" />
-  </a>
-  <a href="https://linkedin.com/in/yourprofile" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" height="30" />
-  </a>
-  <a href="http://discord.com/users/yourdiscord" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/discord.svg" height="30" />
-  </a>
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="250"/>
 </p>
 
-![](https://media.giphy.com/media/SwSokN6DxTszqIKEqv/giphy.gif)
+## 🛡️ About Me
+
+I'm a Cybersecurity Specialist passionate about building innovative solutions that combine:
+
+- 🔐 Cybersecurity
+- 🤖 Artificial Intelligence
+- ⚙️ Automation
+- 💻 Software Development
+
+I have strong experience developing practical tools and applications using:
+
+`Python` • `Java` • `JavaScript` • `HTML/CSS`
+
+My work focuses on:
+- Security analysis & testing tools
+- AI-powered applications
+- Automation systems
+- Interactive web applications
+- Smart technical solutions
 
 ---
 
-## 👩‍💻 About Me
-- 🔐 **Cybersecurity Specialist** with hands‑on experience in threat analysis, system hardening, and building secure solutions.  
-- 🤖 I develop **AI‑powered projects** inside and outside the cybersecurity field.  
-- 🛠️ Skilled in building automated tools, dashboards, and intelligent systems using AI.  
-- 💻 I use daily: **Python**, **Java**, **JavaScript**, **HTML**  
-- 🚀 Passionate about: Red/Blue Team tools, automation, AI agents, and security engineering.  
-- 🎯 Currently working on: AI‑driven security tools + automation scripts.  
+## 🚀 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,javascript,html,css,nodejs,git,github,docker,mysql,mongodb,vscode,linux" />
+</p>
 
 ---
 
-## 🧠 Tech Stack
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,java,js,html,css,git,linux,docker,azure,aws,postgres,mongodb" />
-  </a>
-</p>
+## 🧠 Areas of Interest
+
+- Cybersecurity
+- AI Tools & Automation
+- Secure Web Development
+- API Development
+- Security Research
+- Data Analysis
+- OSINT
+
+---
+
+## 📌 Featured Projects
+
+### 🔹 AI Security Assistant
+An intelligent assistant for threat analysis and automated security recommendations.
+
+### 🔹 Automated Recon Tool
+A reconnaissance and information gathering automation tool.
+
+### 🔹 Smart Task Automation
+Automation workflows powered by Python and AI APIs.
 
 ---
 
 ## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=dark&mode=weekly" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight" />
 </p>
 
 ---
 
-## 📝 Latest Projects
-- 🔐 **AI‑Powered Vulnerability Analyzer**  
-- 🤖 **Automated Threat Detection Script (Python)**  
-- 🕵️‍♀️ **Log Analysis Tool for Incident Response**  
-- 🌐 **Web Security Scanner (JS + Python)**  
-- ⚙️ **AI Agent for Code Review & Security Checks**
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/YOUR_USERNAME">
+    <img src="https://skillicons.dev/icons?i=github" width="45"/>
+  </a>
+
+  <a href="https://linkedin.com/in/YOUR_USERNAME">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="45"/>
+  </a>
+
+  <a href="https://x.com/YOUR_USERNAME">
+    <img src="https://skillicons.dev/icons?i=twitter" width="45"/>
+  </a>
+</p>
 
 ---
 
-## ✍️ Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- Coming soon…
-<!-- BLOG-POST-LIST:END -->
+## 💡 Quote
+
+> “Security is not a product, but a process.” — Bruce Schneier
 
 ---
 
-## 💬 Quote
-> *“Security is not a product, but a process.” — Bruce Schneier*
-
----
-
-## 😂 A Pinch of Humor
-<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
-
+⭐ Building secure systems, exploring AI, and creating smart solutions.
