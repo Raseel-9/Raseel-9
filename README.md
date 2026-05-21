@@ -1,72 +1,55 @@
-# 👋 Hi, I'm Raseel
+<h1 align="center">Hi 👋, I'm [Your Name]</h1>
+<h3 align="center">Cybersecurity Specialist • AI Builder • Software Developer</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="250"/>
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="320"/>
 </p>
+
+---
 
 ## 🛡️ About Me
 
-I'm a Cybersecurity Specialist passionate about building innovative solutions that combine:
+I’m passionate about building smart and secure solutions that combine cybersecurity, artificial intelligence, and automation.
 
-- 🔐 Cybersecurity
-- 🤖 Artificial Intelligence
-- ⚙️ Automation
-- 💻 Software Development
+I develop practical tools, AI-powered systems, and technical projects focused on solving real-world problems through clean and efficient development.
 
-I have strong experience developing practical tools and applications using:
-
-`Python` • `Java` • `JavaScript` • `HTML/CSS`
-
-My work focuses on:
-- Security analysis & testing tools
-- AI-powered applications
-- Automation systems
-- Interactive web applications
-- Smart technical solutions
+Currently exploring:
+- Advanced AI integrations
+- Security automation
+- Smart web applications
+- Offensive & defensive security tools
 
 ---
 
-## 🚀 Tech Stack
+## ⚡ What I Do
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,javascript,html,css,nodejs,git,github,docker,mysql,mongodb,vscode,linux" />
-</p>
-
----
-
-## 🧠 Areas of Interest
-
-- Cybersecurity
-- AI Tools & Automation
-- Secure Web Development
-- API Development
-- Security Research
-- Data Analysis
-- OSINT
+- 🔐 Build cybersecurity tools & scripts
+- 🤖 Develop AI-powered applications
+- ⚙️ Automate workflows and systems
+- 🌐 Create modern web applications
+- 🧠 Research security & emerging technologies
 
 ---
 
 ## 📌 Featured Projects
 
 ### 🔹 AI Security Assistant
-An intelligent assistant for threat analysis and automated security recommendations.
+Intelligent threat analysis assistant with automated recommendations.
 
-### 🔹 Automated Recon Tool
-A reconnaissance and information gathering automation tool.
+### 🔹 Automated Recon Framework
+A smart reconnaissance and information gathering toolkit.
 
-### 🔹 Smart Task Automation
-Automation workflows powered by Python and AI APIs.
+### 🔹 AI Workflow Automation
+Automation system powered by AI APIs and Python integrations.
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+  
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -77,11 +60,11 @@ Automation workflows powered by Python and AI APIs.
   <a href="https://github.com/YOUR_USERNAME">
     <img src="https://skillicons.dev/icons?i=github" width="45"/>
   </a>
-
+  
   <a href="https://linkedin.com/in/YOUR_USERNAME">
     <img src="https://skillicons.dev/icons?i=linkedin" width="45"/>
   </a>
-
+  
   <a href="https://x.com/YOUR_USERNAME">
     <img src="https://skillicons.dev/icons?i=twitter" width="45"/>
   </a>
@@ -89,10 +72,12 @@ Automation workflows powered by Python and AI APIs.
 
 ---
 
-## 💡 Quote
-
-> “Security is not a product, but a process.” — Bruce Schneier
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Cybersecurity+Specialist;AI+Developer;Automation+Engineer;Building+Smart+Solutions+🚀" />
+</p>
 
 ---
 
-⭐ Building secure systems, exploring AI, and creating smart solutions.
+<p align="center">
+  <i>"Security is not a product, but a process."</i>
+</p>
