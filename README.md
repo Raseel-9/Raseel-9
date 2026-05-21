@@ -56,7 +56,7 @@ Automation system powered by AI APIs and Python integrations.
 
 ## 🌐 Connect With Me
 
-<p align="center">
+<p align="left">
   <a href="https://linkedin.com/in/YOUR_LINKEDIN_USER" target="_blank">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" height="30" style="display:inline-block;" />
   </a>
