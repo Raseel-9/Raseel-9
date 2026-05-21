@@ -57,16 +57,8 @@ Automation system powered by AI APIs and Python integrations.
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://skillicons.dev/icons?i=github" width="45"/>
-  </a>
-  
   <a href="https://linkedin.com/in/YOUR_USERNAME">
     <img src="https://skillicons.dev/icons?i=linkedin" width="45"/>
-  </a>
-  
-  <a href="https://x.com/YOUR_USERNAME">
-    <img src="https://skillicons.dev/icons?i=twitter" width="45"/>
   </a>
 </p>
 
