@@ -14,9 +14,9 @@ I’m passionate about building smart and secure solutions that combine cybersec
 I develop practical tools, AI-powered systems, and technical projects focused on solving real-world problems through clean and efficient development.
 
 Currently exploring:
-- Advanced AI integrations
-- Security automation
-- Offensive & defensive security tools
+- AI‑Driven Security Engineering
+- Threat Detection & Response Automation
+- Cyber Defense Optimization
 
 ---
 
