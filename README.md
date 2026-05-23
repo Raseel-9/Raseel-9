@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Raseel</h1>
-<h3 align="center">Cybersecurity Specialist • AI Builder • Software Developer</h3>
+<h3 align="center">Cybersecurity Specialist • Tech Project • </h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="320"/>
