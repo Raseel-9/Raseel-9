@@ -16,7 +16,6 @@ I develop practical tools, AI-powered systems, and technical projects focused on
 Currently exploring:
 - Advanced AI integrations
 - Security automation
-- Smart web applications
 - Offensive & defensive security tools
 
 ---
@@ -24,23 +23,23 @@ Currently exploring:
 ## ⚡️ What I Do
 
 - 🔐 Build cybersecurity tools & scripts
-- 🤖 Develop AI-powered applications
+- 🤖 Design AI models for threat detection & defensive security
 - ⚙️ Automate workflows and systems
-- 🌐 Create modern web applications
+- 🛡️ Perform threat analysis & security assessments
 - 🧠 Research security & emerging technologies
 
 ---
 
-## 📌 Featured Projects
+## 📌 Continuous Learning, Innovation & Cybersecurity Focus
 
-### 🔹 AI Security Assistant
-Intelligent threat analysis assistant with automated recommendations.
+### 🔹 Exploring New Cybersecurity Tools
+Trying out modern security tools and techniques to strengthen digital protection
 
-### 🔹 Automated Recon Framework
-A smart reconnaissance and information gathering toolkit.
+### 🔹 Experimenting with AI for Security
+Using AI models to improve detection, automate responses, and build smarter defenses
 
-### 🔹 AI Workflow Automation
-Automation system powered by AI APIs and Python integrations.
+### 🔹 Enhancing Vulnerability & Threat Skills
+Developing sharper skills in finding weaknesses and identifying threat patterns
 
 ---
 
